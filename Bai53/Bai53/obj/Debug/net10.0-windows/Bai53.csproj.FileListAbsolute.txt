@@ -1,0 +1,17 @@
+D:\VSC\Bai53\Bai53\bin\Debug\net10.0-windows\Bai53.exe
+D:\VSC\Bai53\Bai53\bin\Debug\net10.0-windows\Bai53.deps.json
+D:\VSC\Bai53\Bai53\bin\Debug\net10.0-windows\Bai53.runtimeconfig.json
+D:\VSC\Bai53\Bai53\bin\Debug\net10.0-windows\Bai53.dll
+D:\VSC\Bai53\Bai53\bin\Debug\net10.0-windows\Bai53.pdb
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.Form1.resources
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.csproj.GenerateResource.cache
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.AssemblyInfoInputs.cache
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.AssemblyInfo.cs
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.csproj.CoreCompileInputs.cache
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.dll
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\refint\Bai53.dll
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.pdb
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.genruntimeconfig.cache
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\ref\Bai53.dll
+D:\VSC\Bai53\Bai53\obj\Debug\net10.0-windows\Bai53.csproj.Up2Date
